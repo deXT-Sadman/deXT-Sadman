@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sadman.khan.00/)
 
 </div>
-![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
+![](https://komarev.com/ghpvc/?username=deXT-Sadman)
 
 ---
 
