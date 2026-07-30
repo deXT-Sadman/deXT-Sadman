@@ -1,5 +1,5 @@
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riadul-islam-551&label=Profile%20views&color=0e75b6&style=flat" alt="deXT-Sadman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deXT-Sadman&label=Profile%20views&color=0e75b6&style=flat" alt="deXT-Sadman" /> </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sadman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <p align="center">
