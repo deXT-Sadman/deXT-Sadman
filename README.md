@@ -2,7 +2,7 @@
 
 # Hi, I'm Sadman Khan 👋
 
-### Flutter Developer | B.Sc. in CSE | Building mobile apps that solve real problems
+### Flutter Developer | CSE Graduate| Building mobile apps that solve real problems | UI/UX Designer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-khan-dext-elag/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deXT-Sadman)
