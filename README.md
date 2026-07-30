@@ -1,16 +1,17 @@
 <div align="center">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riadul-islam-551&label=Profile%20views&color=0e75b6&style=flat" alt="deXT-Sadman" /> </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sadman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-### Flutter Developer | CSE Graduate| Building mobile apps that solve real problems | UI/UX Designer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+mobile+apps+that+solve+real+problems!" />
+</p>
+
+### Flutter Developer | CSE Graduate | UI/UX Designer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-khan-dext-elag/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deXT-Sadman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sadman.khan.00/)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadu2k17@gmail.com) 
-
-</div>
-![](https://komarev.com/ghpvc/?username=deXT-Sadman)
 
 ---
 
@@ -77,27 +78,15 @@ A Quran app built with Flutter, powered by the Al-Quran Cloud API.
 - Arabic text display, English translation toggle, audio recitation, and bookmarking
 - `Flutter` `REST API` `Audio Playback` `SharedPreferences`
 
-### 🌤️ [Weather App](https://github.com/deXT-Sadman/weather_app)
-Real-time weather app with temperature, humidity, wind speed, and city search, backed by a live weather API.
-- `Flutter` `REST API`
-
-### 💱 [Currency Converter](https://github.com/deXT-Sadman/currency_converter)
-A clean Flutter app that converts USD to BDT with input validation and instant results.
-- `Flutter` `StatefulWidget`
-
-### 🔄 [CRUD App](https://github.com/deXT-Sadman/crud_app)
-A cross-platform Flutter app demonstrating full CRUD operations against a RESTful API — covers async networking, JSON parsing, and state handling.
-- `Flutter` `REST API`
-
 <details>
 <summary><b>📂 More projects</b></summary>
 <br>
 
 | Project | Description | Stack |
 |---|---|---|
-| [Real Estate App](https://github.com/deXT-Sadman/real_estate_app) | Property listing app built with Clean Architecture | Flutter, GetX |
-| [BMI Calculator](https://github.com/deXT-Sadman/bmi_calculator_app) | Clean, responsive BMI calculator | Flutter |
-| [Taski](https://github.com/deXT-Sadman/taski) / [Taski To-Do App](https://github.com/deXT-Sadman/taski_todo_app) | To-do apps exploring `setState` and named routing | Flutter |
+| [Weather App](https://github.com/deXT-Sadman/weather_app) | Real-time weather app with temperature, humidity, wind speed, and city search, backed by a live weather API. | Flutter, REST API |
+| [BMI Calculator](https://github.com/deXT-Sadman/bmi_calculator_app) | A clean Flutter app that converts USD to BDT with input validation and instant results. | Flutter, StatefulWidget |
+| [Currency_Converter](https://github.com/deXT-Sadman/currency_converter) | To-do apps exploring `setState` and named routing | Flutter |
 | [BrainiVerse Quiz App](https://github.com/deXT-Sadman/BrainiVerseQuizApp) | Quiz app with Firebase Authentication | Kotlin, Firebase |
 | [Secure File Locker](https://github.com/deXT-Sadman/secure_file_locker) | File security/locking utility app | Flutter |
 
