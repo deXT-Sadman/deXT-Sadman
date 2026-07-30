@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sadman Khan 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,6,12&section=header" width="100%"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sadman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 ### Flutter Developer | CSE Graduate| Building mobile apps that solve real problems | UI/UX Designer
 
