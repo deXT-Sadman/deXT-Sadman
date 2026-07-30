@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-khan-dext-elag/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deXT-Sadman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sadman.khan.00/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadu2k17@gmail.com) 
 
 </div>
 ![](https://komarev.com/ghpvc/?username=deXT-Sadman)
@@ -15,7 +16,7 @@
 
 ## 👤 About Me
 
-I'm a recent **B.Sc. in Computer Science and Engineering** graduate from **Manarat International University**, Dhaka, Bangladesh — completed on a **full scholarship** with a **CGPA of 3.96/4.00**. I'm currently focused on **Flutter app development** and actively looking for **Flutter Developer Internship** opportunities where I can contribute and keep growing.
+I'm a recent **B.Sc. in Computer Science and Engineering** graduate from **Manarat International University**, Dhaka, Bangladesh. I'm currently focused on **Flutter app development** and actively looking for **Flutter Developer Internship** opportunities where I can contribute and keep growing.
 
 I like building apps that are actually useful — several of my projects are aimed at Bangladeshi and Muslim users, and I enjoy working across the full stack, from Flutter UI down to the backend APIs that power it.
 
@@ -37,6 +38,7 @@ I like building apps that are actually useful — several of my projects are aim
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Mobile & Frameworks**
 
