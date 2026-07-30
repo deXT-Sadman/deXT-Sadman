@@ -100,6 +100,8 @@ A Quran app built with Flutter, powered by the Al-Quran Cloud API.
 
 ## 📈 GitHub Stats
 <div align="center">
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=deXT-Sadman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+ 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=deXT-Sadman&theme=dark&hide_border=false)
  
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=deXT-Sadman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
