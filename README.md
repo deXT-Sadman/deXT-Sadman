@@ -103,13 +103,14 @@ A cross-platform Flutter app demonstrating full CRUD operations against a RESTfu
 
 ---
 
-📊 GitHub Stats
+## 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deXT-Sadman&show_icons=true&theme=tokyonight&hide_border=true" alt="Sadman's GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deXT-Sadman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=deXT-Sadman&theme=tokyonight&hide_border=true" alt="Sadman's GitHub Streak" height="165"/> </div>
-🚀 Current Focus
+
+## 🚀 Current Mission
 
 Sharpening Flutter fundamentals through real, shippable projects — and looking for a team to bring that into production.
 
-📫 Let's Connect
+##📫 Let's Connect
 <div align="center">
 
 I'm actively looking for a Flutter Developer Internship and always open to a conversation about mobile development, AI-powered apps, or interesting engineering problems.
