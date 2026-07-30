@@ -47,7 +47,7 @@ I like building apps that are actually useful — several of my projects are aim
 **State Management & Tools**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sqlite,git,figma,canva,vscode,androidstudio,github,postman,mysql" alt="State Management & Tools" />
+  <img src="https://skillicons.dev/icons?i=sqlite,git,figma,vscode,androidstudio,github,postman,mysql" alt="State Management & Tools" />
 </a>
 
 ---
