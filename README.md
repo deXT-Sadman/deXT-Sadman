@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sadman Khan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,6,12&section=header" width="100%"/> 
 
 ### Flutter Developer | CSE Graduate| Building mobile apps that solve real problems | UI/UX Designer
 
@@ -110,14 +111,6 @@ A cross-platform Flutter app demonstrating full CRUD operations against a RESTfu
 
 Sharpening Flutter fundamentals through real, shippable projects — and looking for a team to bring that into production.
 
-##📫 Let's Connect
-<div align="center">
-
-I'm actively looking for a Flutter Developer Internship and always open to a conversation about mobile development, AI-powered apps, or interesting engineering problems.
-
-Show Image Show Image
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,6,12&section=footer" width="100%"/> </div>
 ## 📫 Let's Connect
 
 I'm actively looking for **Flutter Developer Internship** opportunities and always open to a conversation about mobile development, AI-powered apps, or interesting engineering problems.
