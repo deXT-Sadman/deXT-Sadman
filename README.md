@@ -99,7 +99,9 @@ A Quran app built with Flutter, powered by the Al-Quran Cloud API.
 ---
 
 ## 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deXT-Sadman&show_icons=true&theme=tokyonight&hide_border=true" alt="Sadman's GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deXT-Sadman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=deXT-Sadman&theme=tokyonight&hide_border=true" alt="Sadman's GitHub Streak" height="165"/> </div>
+![](https://github-readme-stats.shion.dev/api?username=deXT-Sadman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=deXT-Sadman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deXT-Sadman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 Current Mission
 
