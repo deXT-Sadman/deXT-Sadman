@@ -26,8 +26,7 @@ I like building apps that are actually useful — several of my projects are aim
 - 🎓 B.Sc. CSE, Manarat International University (Class of 2025)
 - 📊 Published dataset: *UAV_SMID – UAV Sky Monitoring Image Dataset* on Mendeley Data
 - 🌍 Based in Dhaka, Bangladesh — comfortable working in English and Bengali
-- 🎯 Currently seeking: **Flutter Developer Internship / Junior Flutter Developer** roles
-
+- 🎯 Currently working in Biddabari as a Flutter Developer
 ---
 
 ## 🛠️ Tech Stack
