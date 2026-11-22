@@ -34,19 +34,31 @@ I like building apps that are actually useful — several of my projects are aim
 **Languages**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,js,python,kotlin,java,html,css,c" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=dart,php,js,python,kotlin,java,html,css,c" alt="Languages" />
 </a>
 
-**Mobile & Frameworks**
+**Mobile & Frontend Frameworks**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,mongodb" alt="Mobile & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Mobile & Frontend Frameworks" />
 </a>
 
-**State Management & Tools**
+**Backend & Frameworks**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sqlite,git,figma,vscode,androidstudio,github,postman,mysql" alt="State Management & Tools" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,firebase" alt="Backend & Frameworks" />
+</a>
+
+**Databases**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+</a>
+
+**Tools & Design**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman" alt="Tools & Design" />
 </a>
 
 ---
