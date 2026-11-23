@@ -1,17 +1,19 @@
-<div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deXT-Sadman&label=Profile%20views&color=0e75b6&style=flat" alt="deXT-Sadman" /> </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sadman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+ <div align="center">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=deXT-Sadman&label=Profile%20views&color=0e75b6&style=flat" alt="deXT-Sadman" />
+  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sadman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+mobile+apps!;Flutter+Developer;UI/UX+Designer" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+mobile+apps!;Flutter+Developer;UI%2FUX+Designer" />
+  </p>
 
-### CSE Graduate | Flutter Developer | UI/UX Designer 
+### CSE Graduate | Flutter Developer | UI/UX Designer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-khan-dext-elag/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deXT-Sadman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sadman.khan.00/)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadu2k17@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadu2k17@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadmankhan.lovable.app/)
 </div>
 
@@ -27,6 +29,7 @@ I like building apps that are actually useful and I enjoy working across the ful
 - 📊 Published dataset: *UAV_SMID – UAV Sky Monitoring Image Dataset* on Mendeley Data
 - 🌍 Based in Dhaka, Bangladesh — comfortable working in English and Bengali
 - 🎯 Currently working in Biddabari as a Flutter Developer
+
 ---
 
 ## 🛠️ Tech Stack
@@ -66,20 +69,34 @@ I like building apps that are actually useful and I enjoy working across the ful
 ## 🚀 Featured Projects
 
 ### 📋 [Forgex](https://github.com/deXT-Sadman/forgex-flutter) — Full-Stack Task Manager
+
 A complete offline-first To-Do application with a Flutter front end and a self-built Node.js/Express/MongoDB REST API backend.
+
 - JWT authentication, full task CRUD, and light/dark theming
 - Companion repos: [`forgex-backend`](https://github.com/deXT-Sadman/forgex-backend) (Express + MongoDB API) and [`forgex-task-manager`](https://github.com/deXT-Sadman/forgex-task-manager)
 - `Flutter` `Node.js` `Express` `MongoDB` `JWT`
 
-### 🌿 [LeafLens](https://github.com/deXT-Sadman/leaf_lens) — AI Plant Identification
-A Flutter app that identifies plants from photos using the Groq API with a LLaMA Vision model.
-- Real-world integration of AI image analysis into a mobile app
-- `Flutter` `Groq API` `LLaMA Vision` `REST API`
+### 🛠️ [HatKaj](https://github.com/deXT-Sadman/hatkaj-app) — Full-Stack Service Booking Platform
 
-### 📖 [My Quran](https://github.com/deXT-Sadman/my_quran) — Quran Reading App
-A Quran app built with Flutter, powered by the Al-Quran Cloud API.
-- Arabic text display, English translation toggle, audio recitation, and bookmarking
-- `Flutter` `REST API` `Audio Playback` `SharedPreferences`
+A Flutter-based mobile application backed by a Laravel REST API, designed to simplify home maintenance and service bookings such as AC servicing, plumbing, electrical work, and cleaning.
+
+- User authentication with Laravel Sanctum and secure token storage
+- Browse services, create bookings, and manage booking status with real-time API integration
+- Booking pagination, status filters, profile management, and checkout price preview
+- Backend features include double-booking prevention, validated status transitions, and booking activity audit logs
+- Companion backend: [`hatkaj-api`](https://github.com/deXT-Sadman/hatkaj-api)
+- `Flutter` `Dart` `Laravel` `PHP` `REST API` `SQLite` `Sanctum` `Provider`
+
+### 🔐 [PassForge](https://github.com/deXT-Sadman/passforge) — Secure Password Manager
+
+A local-first Android password manager built with Flutter and Material 3, featuring encrypted password storage and optional Google Drive backup.
+
+- AES-256-GCM encryption with Android Keystore-backed key management
+- PIN and biometric authentication with brute-force protection
+- Strong password generator, password vault, search, and category filtering
+- Secure clipboard that automatically clears copied passwords after 30 seconds
+- Optional encrypted Google Drive backup and restore with conflict-aware synchronization
+- `Flutter` `Dart` `Material 3` `AES-256-GCM` `Hive` `Android Keystore` `Google Drive API`
 
 <details>
 <summary><b>📂 More projects</b></summary>
@@ -98,12 +115,13 @@ A Quran app built with Flutter, powered by the Al-Quran Cloud API.
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=deXT-Sadman&theme=dark&hide_border=false)
- 
+
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=deXT-Sadman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
+
 </div>
 
 ## 🚀 Current Mission
