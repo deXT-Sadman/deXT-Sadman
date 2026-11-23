@@ -19,9 +19,9 @@
 
 ## 👤 About Me
 
-I'm a recent **B.Sc. in Computer Science and Engineering** graduate from **Manarat International University**, Dhaka, Bangladesh. I'm currently focused on **Flutter app development** and actively looking for **Flutter Developer Internship** opportunities where I can contribute and keep growing.
+I'm a recent **B.Sc. in Computer Science and Engineering** graduate from **Manarat International University**, Dhaka, Bangladesh. I'm currently focused on **Flutter app development** and actively looking for **Flutter Development** opportunities where I can contribute and keep growing.
 
-I like building apps that are actually useful — several of my projects are aimed at Bangladeshi and Muslim users, and I enjoy working across the full stack, from Flutter UI down to the backend APIs that power it.
+I like building apps that are actually useful and I enjoy working across the full stack, from Flutter UI down to the backend APIs that power it.
 
 - 🎓 B.Sc. CSE, Manarat International University (Class of 2025)
 - 📊 Published dataset: *UAV_SMID – UAV Sky Monitoring Image Dataset* on Mendeley Data
@@ -112,7 +112,7 @@ Sharpening Flutter fundamentals through real, shippable projects — and looking
 
 ## 📫 Let's Connect
 
-I'm actively looking for **Flutter Developer Internship** opportunities and always open to a conversation about mobile development, AI-powered apps, or interesting engineering problems.
+I'm actively looking for **Flutter Development** opportunities and always open to a conversation about mobile development, AI-powered apps, or interesting engineering problems.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-khan-dext-elag/)
 
