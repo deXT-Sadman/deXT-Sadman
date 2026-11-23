@@ -82,3 +82,65 @@ A Flutter-based mobile application backed by a Laravel REST API, designed to sim
 
 - User authentication with Laravel Sanctum and secure token storage
 - Browse services, create bookings, and manage booking status with API integration
+- Booking pagination, status filters, profile management, and checkout price preview
+- Backend features include double-booking prevention, validated status transitions, and booking activity audit logs
+- Companion backend: [`hatkaj-api`](https://github.com/deXT-Sadman/hatkaj-api)
+- `Flutter` `Dart` `Laravel` `PHP` `REST API` `SQLite` `Sanctum` `Provider`
+
+### 🔐 [PassForge](https://github.com/deXT-Sadman/passforge) — Secure Password Manager
+
+A local-first Android password manager built with Flutter and Material 3, featuring encrypted password storage and optional Google Drive backup.
+
+- AES-256-GCM encryption with Android Keystore-backed key management
+- PIN and biometric authentication with brute-force protection
+- Strong password generator, password vault, search, and category filtering
+- Secure clipboard that automatically clears copied passwords after 30 seconds
+- Optional encrypted Google Drive backup and restore with conflict-aware synchronization
+- `Flutter` `Dart` `Material 3` `AES-256-GCM` `Hive` `Android Keystore` `Google Drive API`
+
+---
+
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Weather App](https://github.com/deXT-Sadman/weather_app) | Real-time weather app with temperature, humidity, wind speed, and city search, backed by a live weather API. | Flutter, REST API |
+| [BMI Calculator](https://github.com/deXT-Sadman/bmi_calculator_app) | A simple BMI calculator with input handling and instant BMI results. | Flutter, StatefulWidget |
+| [Currency Converter](https://github.com/deXT-Sadman/currency_converter) | Currency conversion app exploring Flutter state management and UI development. | Flutter, Dart |
+| [BrainiVerse Quiz App](https://github.com/deXT-Sadman/BrainiVerseQuizApp) | Quiz app with Firebase Authentication. | Kotlin, Firebase |
+| [Secure File Locker](https://github.com/deXT-Sadman/secure_file_locker) | File security and locking utility app. | Flutter |
+| [LeafLens](https://github.com/deXT-Sadman/leaf_lens) | AI-powered plant identification app that analyzes plant photos using a vision model. | Flutter, Groq API, LLaMA Vision |
+| [My Quran](https://github.com/deXT-Sadman/my_quran) | Quran reading app featuring Arabic text, English translation, audio recitation, and bookmarking. | Flutter, Al-Quran Cloud API, SharedPreferences |
+| [Smile Detection App](https://github.com/deXT-Sadman/smile_detection_app) | Face detection and smile analysis with on-device face detection and smile probability estimation. | Flutter, Google ML Kit |
+
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=deXT-Sadman&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=deXT-Sadman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🚀 Current Mission
+
+Sharpening Flutter fundamentals through real, shippable projects — and looking for a team to bring that into production.
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **Flutter Development** opportunities and always open to a conversation about mobile development, AI-powered apps, or interesting engineering problems.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-khan-dext-elag/)
+
+</div>
