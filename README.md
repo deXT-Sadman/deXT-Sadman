@@ -49,13 +49,13 @@ I like building apps that are actually useful and I enjoy working across the ful
 **Backend & Frameworks**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,firebase" alt="Backend & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,firebase,supabase" alt="Backend & Frameworks" />
 </a>
 
 **Databases**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" alt="Databases" />
 </a>
 
 **Tools & Design**
